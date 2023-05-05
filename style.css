@@ -1,0 +1,14 @@
+.btn-meu{
+    width: 139px;
+    height: 45px;
+    left: 1135px;
+    top: 56px;
+    background-color: orangered;
+    border-radius: 25px 25px 25px 25px;
+    border: none;
+    color: white;
+}
+.logo{
+    padding-bottom: 4px ;
+    margin-right: 8px;
+}
