@@ -12,14 +12,3 @@
     padding-bottom: 4px ;
     margin-right: 8px;
 }
-.grafic-relative{
-    display: block;
-    position: relative;
-    margin-left: 40%;
-}
-.grafic{
-    display: flex;
-    position: absolute;
-    margin-left: 45%;
-    margin-top: -4%;
-}
